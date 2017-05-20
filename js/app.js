@@ -4,19 +4,23 @@
 
 Tay-Tay*/
 
+var divElem = document.getElementById("name1");
+divElem.innerHTML = "Tay-Tay";
 
 
 /*2. Replace the n/a with the following: 
 
 Project Manager*/
 
-
+var divElem2 = document.getElementById("position2");
+divElem2.innerHTML = "Project Manager";
 
 /*3. Replace the n/a with the following:
 
 Concatenation*/
 
-
+var divElem3 = document.getElementById("alias3");
+divElem3.innerHTML = "Concatenation";
 
 /*4. Replace the n/a for Snoop with the gangsta lorem ipsum*/
 
